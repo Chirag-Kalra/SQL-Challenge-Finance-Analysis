@@ -10,5 +10,6 @@ As a Finance Analyst at 'The Big Bank', I have conducted an in-depth examination
 8. Which branch has the highest total balance across all of its accounts?
 9. Which customer has the highest total balance across all of their accounts, including savings and checking accounts?
 10. Which branch has the highest number of transactions in the Transactions table?
+
 Here's the link for the challenge:
 https://mattsteel87.wixsite.com/datacoach/customer-insights-copy 
